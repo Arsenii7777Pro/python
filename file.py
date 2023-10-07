@@ -14,3 +14,8 @@ print(type("строка"))
 login = input("Введите логин: ")
 password = input("Введите пароль ")
 print("Вы ввели " login + login ", " + password)
+
+
+name = input("Введите имя: ")
+surname = input("Введите фамилию: ")
+print("Вы ввели " + name + surname)
