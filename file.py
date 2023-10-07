@@ -19,3 +19,10 @@ print("Вы ввели " login + login ", " + password)
 name = input("Введите имя: ")
 surname = input("Введите фамилию: ")
 print("Вы ввели " + name + surname)
+
+
+
+
+
+
+
