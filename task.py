@@ -28,3 +28,13 @@ second = number //10 % 10
 third = number % 10
 print(third + first + second)
 
+ДЗ
+a = 647
+b = 170
+c = 30
+d = (a // c)
+print(f"Кол-во по вертикали {d}")
+f = (b // c)
+print(f"Кол-во по горизонтали {f}")
+q = (d * f)
+print(f"Общее кол-во квадратов {q}")
