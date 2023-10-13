@@ -38,3 +38,8 @@ f = (b // c)
 print(f"Кол-во по горизонтали {f}")
 q = (d * f)
 print(f"Общее кол-во квадратов {q}")
+задача 2
+number = input("Введите число")
+number = int(number)
+print(number*number) 
+print(number*number*number)
