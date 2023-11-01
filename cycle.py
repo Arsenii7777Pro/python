@@ -35,4 +35,22 @@ while rain:
     if stop.lover() == "да":
         print("Выхожу из дома")
         break
+
+for i in range(10):
+    print("You are welcome!")
+
+n = int(input ("Введите число"))
+for i in range(n):
+    print("silence is golden")
+
+a = int(input("Введите количество строк"))
+for i in range(a):
+    print("0" * 5)
+
+soldiers = 26
+for i in range(1,soldiers+1):
+    if i < soldiers:
+        print(F"Солдат {i} производит расчет на первый второй и передает расчет следующему солдату")
+    else:
+        print("Последний солдат производит расчет окончен")
     
