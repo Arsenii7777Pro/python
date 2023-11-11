@@ -6,7 +6,7 @@ comp_number = random.randint(1, 100)
 tries = 11
 while tries <= 10:
       tries -= 1   
-      print(f"Попытка №{tries}")
+      print(f"{pl_name} попытка №{tries}")
       my_number = int(input(f"{pl_name}Введите число"))
 
          
