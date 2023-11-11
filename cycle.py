@@ -26,7 +26,7 @@ while number > 0:
         continue
     print("Время кончается")
     if number == 0:
-    print("TIME IS OVER!")
+     print("TIME IS OVER!")
     
 rain + True
 while rain:
