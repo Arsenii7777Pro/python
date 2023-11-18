@@ -23,5 +23,3 @@ for dish in menu:
     print(f"{dish} - это вкусно")
     
     
-    
-    
